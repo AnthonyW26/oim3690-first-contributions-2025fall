@@ -1,3 +1,3 @@
 # Contributors
 
-- [Zhi Li](https://github.com/lzblack)
+- [Zhi Li's GitHub](https://github.com/lzblack)
